@@ -5,7 +5,7 @@
 
 Un secuenciador de ambientes sonoros diseñado para la meditación y la relajación. A diferencia de los reproductores de ruido blanco tradicionales, Zen Whisper permite programar una línea de tiempo visual para crear paisajes sonoros evolutivos.
 
-![App Screenshot](screenshots/zen_whisper1.jpeg)
+![App Screenshot](screenshots/zen_whisper2.jpeg)
 
 ## 💡 Concepto y Estado
 
